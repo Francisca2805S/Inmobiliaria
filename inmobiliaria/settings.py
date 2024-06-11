@@ -90,7 +90,7 @@ WSGI_APPLICATION = 'inmobiliaria.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'inmobiliaria',
+        'NAME': 'Inmobiliaria',
         'USER': 'postgres',
         'PASSWORD': '1234',
         'HOST': '127.0.0.1',
